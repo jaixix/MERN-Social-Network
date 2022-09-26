@@ -1,0 +1,29 @@
+{
+  "name": "nodeprac",
+  "version": "1.0.0",
+  "description": "Social Network For Devs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaixix/NodePrac.git"
+  },
+  "author": "Jaideep Lalchandani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaixix/NodePrac/issues"
+  },
+  "homepage": "https://github.com/jaixix/NodePrac#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "config": "^3.3.8",
+    "express": "^4.18.1",
+    "express-validator": "^6.14.2",
+    "gravatar": "^1.8.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.6.1",
+    "request": "^2.88.2"
+  }
+}
